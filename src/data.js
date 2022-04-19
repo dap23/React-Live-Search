@@ -1,0 +1,16 @@
+export const Course = [
+  'JavaScript',
+  'Html',
+  'CSS',
+  'Java',
+  'Python',
+  'Rust',
+  'Dart',
+  'C',
+  'C++',
+  'C#',
+  'R',
+  'Go',
+  'Swift',
+  'SQL',
+];
